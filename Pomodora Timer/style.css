@@ -1,0 +1,39 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    margin-top:170px;
+}
+.main-container
+{  
+    background-color: tomato;
+    padding:30px;
+    text-align:center;
+    max-width:400px;
+    margin:auto;
+    border-radius: 20px;
+}
+button{
+    width:50%;
+    padding:6px 15px;
+    font-size: 1.4rem;
+}
+#timer
+{
+    font-size: 3rem;
+    font-weight: bold;
+    margin:20px 0px;
+}
+#info
+{
+  background: violet;
+  font-weight: bold;
+  font-size:2rem;
+  text-align: center;
+  padding:30px;
+  border-radius: 40px;
+  color:white;
+}
